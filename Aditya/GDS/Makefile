@@ -8,7 +8,7 @@ CXXFLAGS = -std=c++14 -Wall
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = GDS
+APPNAME = GDS # intension
 EXT = .cpp
 SRCDIR = src
 INC=-I./inc
